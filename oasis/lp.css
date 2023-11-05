@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    
+}
+.first {
+    height: 100%;
+    width: 100%;
+   background-color: black;
+  background-image: linear-gradient(black,red);
+    background-image: linear-gradient(to right, rgb(255,5,56,96), rgba(0,0,0));
+    color: white;
+    
+}
+.navbar-brand{
+   font-family: 'Raleway', sans-serif;
+    font-size:2rem; 
+}
+.button{
+    padding: 6px 24px;
+    border: 2px solid #fff;
+    background: transparent;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.button:active{
+    transform: :scale(0.98);
+}
+#center {
+  margin: 5% 0 0 25%;
+  width: 50%; 
+}
+
+h2{
+    font-family: 'Rubik', sans-serif;
+    font-size:5rem;
+}
+#cow{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40%;
+    color: #ff0537;
+}
+.para{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18%x;
+    margin: 1% auto;
+    width: 50%;
+    color: grey;
+    
+}
+.para span{
+   color: white;
+}
+    
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 25px;
+  font-family: Georgia;
+  color: #ffffff;
+  border-color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+    margin: 0;
+    position: relative;
+}
+
+.btn:hover {
+  background: white;
+  text-decoration: none;
+}
+
+.butside{
+   margin: 0;
+   font-family: 'Rubik', sans-serif;
+    position: relative;
+   
+
+}
+.div-button{
+    margin-left: 25%;
+}
+.div-button div{
+    display: inline-block;
+}
+.div-2{
+    margin-left: 10px;
+}
+
+.bikee{
+    opacity: 0.8;
+}
+
+/*---login---*/
